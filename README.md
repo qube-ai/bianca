@@ -1,8 +1,8 @@
-# TSDX React w/ Storybook User Guide
+# Bianca
 
-Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
+Qube design system.
 
-> This TSDX setup is meant for developing React component libraries (not apps!) that can be published to NPM. If you’re looking to build a React-based app, you should use `create-react-app`, `razzle`, `nextjs`, `gatsby`, or `react-static`.
+> Bianca is an open-source design system built by humans at Qube. With the our Design principles as its foundation, the system consists of working code, design tools and resources, human interface guidelines. This design system is used across the applications built by Qube.
 
 > If you’re new to TypeScript and React, checkout [this handy cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet/)
 
